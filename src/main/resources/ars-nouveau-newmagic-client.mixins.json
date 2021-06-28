@@ -1,0 +1,8 @@
+{
+    "minVersion": "0.8",
+    "refmap": "ars-nouveau-newmagic-client.refmap.json",
+    "package": "rmc.mixins.ars_nouveau_newmagic_client.inject",
+    "mixins": [
+        "GuiSpellBookMixin"
+    ]
+}
